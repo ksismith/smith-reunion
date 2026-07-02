@@ -1,7 +1,7 @@
 // Countdown Timer
 function updateCountdown() {
     // Set the target date - Update this to your reunion date
-    const targetDate = new Date('August 16, 2025 12:00:00').getTime();
+    const targetDate = new Date('July 9, 2026 15:00:00').getTime();
     
     const countdown = setInterval(() => {
         const now = new Date().getTime();
